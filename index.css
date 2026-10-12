@@ -1,0 +1,33 @@
+/* p {color:red; font-size: 24px;}
+h1 {color:blue; font-size: 36px;}
+h2 {color:green; font-size: 30px;}
+h3 {color:purple; font-size: 26px;}
+h4 {color:orange; font-size: 22px;}
+h5 {color:pink; font-size: 18px;}
+h6 {color:gray; font-size: 16px;} */
+#heading1{
+    color: blue;
+    font-size: 36px;
+}
+#heading2{
+    color: green;
+    font-size: 30px;
+}
+#heading3{
+    color: purple;
+    font-size: 26px;
+}
+#heading4{
+    color: orange;
+    font-size: 22px;
+}#heading5{
+    color: pink;
+    font-size: 18px;
+}#heading6{
+    color: gray;
+    font-size: 16px;
+}
+.heading-class{
+    color: red;
+    font-size: 24px;
+}
